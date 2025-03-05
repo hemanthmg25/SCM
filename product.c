@@ -6,6 +6,8 @@ int main()
 	scanf("%d,%d",&n1,&n2);
 	r = n1+n2;
 	printf("RESULT: %d\n",r);
+	printf("Faltu");
 	return 0;
+
 }
 
